@@ -1,0 +1,14 @@
+psutil
+matplotlib
+tkinter
+platform
+pathlib
+datetime
+subprocess
+shutil
+stat
+re
+threading
+collections
+socket
+distro
