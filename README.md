@@ -1,4 +1,3 @@
-```markdown
 # Modern System Monitor
 
 An advanced system monitor with a modern user interface, written in Python using Tkinter.
