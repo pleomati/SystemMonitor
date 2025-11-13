@@ -94,6 +94,11 @@ The `prime_numbers` program should be located in the application's root director
 sudo sensors-detect --auto
 sudo service kmod start
 ```
+### For AppImage Version:
+If the AppImage doesn't run, you may need to install FUSE on your Linux system:
+```bash
+https://github.com/AppImage/AppImageKit/wiki/FUSE
+```
 
 ### Permission Issues
 Ensure the application has appropriate permissions to read system information.
